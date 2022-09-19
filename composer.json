@@ -3,7 +3,7 @@
     "description": "A demo package",
   	"type": "library",
   	"license": "MIT",
-	"minimum-stability": "dev",
+	"minimum-stability": "stable",
 	"authors": [
     	{
  		 "name": "Amr sharkas",
